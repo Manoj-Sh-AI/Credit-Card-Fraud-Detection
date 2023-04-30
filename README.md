@@ -6,3 +6,5 @@ Using Scikit-Learn and Snap ML, it is possible to build accurate and efficient c
 Scikit-Learn offers a wide range of machine learning algorithms, including decision trees, random forests, support vector machines, and logistic regression, among others. Snap ML, on the other hand, is designed to handle large-scale datasets using parallel and distributed computing techniques, making it ideal for big data applications.
 
 Overall, using Scikit-Learn and Snap ML, credit card fraud detection models can be built with high accuracy, scalability, and efficiency. By detecting fraudulent transactions early, financial institutions can reduce losses and improve customer satisfaction.
+
+Dataset : https://www.kaggle.com/mlg-ulb/creditcardfraud
